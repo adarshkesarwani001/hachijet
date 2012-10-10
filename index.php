@@ -192,7 +192,7 @@ echo $path[$i][$j];
 if(!isset($_POST['submit']))
 {
 	?>
-<form  name="form1" class="adarsh" method="post" action="try.php" >
+<form  name="form1" class="adarsh" method="post" action="index.php" >
 <table border="2" align="center" cellpadding="7" cellspacing="7" id="customers">
 <h1 align="center" class="lucky">COST ADJACENCY MATRIX</h1>
 <tr class="alt">
